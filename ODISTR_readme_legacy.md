@@ -50,8 +50,8 @@ Pediatrician, Writer, Vedic Researcher
 - [Case Report: Ankush Pandit (PDF)](case-ankush-pandit.pdf) – Successful 2-year follow-up
 - [Guardian Remarks (PDF)](guardian-remarks.pdf) – Real-world feedback
 - [Consent Form (PDF)](odistr-consent-form.pdf) – Sample written consent format
-  - [Watch Explanatory Video](https://drive.google.com/file/d/XXXXXXXX/view?usp=sharing)
 
+  - [Watch Explanatory Video](https://drive.google.com/file/d/15sKGx2-a7Gr6HrUNoO2qWwpyQNw8PVUr/view?usp=sharing)
 ---
 
 ## 📚 Additional Reading
