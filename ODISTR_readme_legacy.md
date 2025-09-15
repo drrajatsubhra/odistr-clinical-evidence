@@ -46,12 +46,11 @@ Pediatrician, Writer, Vedic Researcher
 ## 📁 Contents of this Repository
 
 - `README.md` – This description file  
-- `odistr-protocol.pdf` – Core document outlining the ODISTR treatment protocol *(upload separately)*  
-- `case-ankush-pandit.pdf` – Successful 2-year follow-up of a WALRI child managed with ODISTR  
-- `guardian-remarks.pdf` – Real-world feedback from patient families  
-- `odistr-consent-form.pdf` – Sample written consent format for ODISTR therapy use  
-- `images/` – Clinical snapshots and charts  
-- `videos/` – Sample explanatory video or patient discussion clip *(optional)*
+- [ODISTR Protocol (PDF)](odistr-protocol.pdf) – Core document outlining the ODISTR treatment protocol
+- [Case Report: Ankush Pandit (PDF)](case-ankush-pandit.pdf) – Successful 2-year follow-up
+- [Guardian Remarks (PDF)](guardian-remarks.pdf) – Real-world feedback
+- [Consent Form (PDF)](odistr-consent-form.pdf) – Sample written consent format
+  - [Watch Explanatory Video](https://drive.google.com/file/d/XXXXXXXX/view?usp=sharing)
 
 ---
 
@@ -68,7 +67,7 @@ Pediatrician, Writer, Vedic Researcher
 
 ---
 
-## 🆔 DOI (if linked with Zenodo)
+## 🆔  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16805608.svg)](https://doi.org/10.5281/zenodo.16805608)
 
 📌 Zenodo will generate a DOI once a release is made. You may cite it once available.
 
