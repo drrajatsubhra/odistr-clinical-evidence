@@ -25,7 +25,7 @@ Child Specialist | Founder, Sri Yoga Center Trust – Kunarpur
 - Long-term clinical follow-up data
 
 
-# ODITSR – On-Demand INTRANASAL STEROID THERAPY of Rajatsubhra
+# ODISTR – On-Demand INTRANASAL STEROID THERAPY of Rajatsubhra
 
 This repository contains clinical evidence and supporting documents for ODISTR, a novel therapeutic approach.
 
