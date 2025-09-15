@@ -54,9 +54,24 @@ This repository contains clinical evidence and supporting documents for ODISTR, 
 ---
 
 ## References
-Mukhopadhyay, R. (Year). *On-Demand Intranasal Steroid Therapy in Asthma*.  
-[More Research](https://zenodo.org)
 
+- Mukhopadhyay, R. (2013). *Intranasal Steroid and Asthma*. Texila International Journal of Medicine, 1(1).  
+  ISSN: 2520-3118. https://doi.org/10.21522/TIJMD.2013  
+
+- Mukhopadhyay, R. (2017). *Intranasal Steroid and Asthma*. Journal of Pediatrics & Child Care (Avens Publishing Group), 3(2):06.  
+  ISSN: 2380-0534.  
+
+- Mukhopadhyay, R. (2025). *On-Demand Intranasal Steroid Therapy (ODISTR) in Asthma: A Novel Pediatric Airway Management Strategy*. Zenodo. https://doi.org/10.5281/zenodo.16805608  
+
+- Mukhopadhyay, R. (2025). *Ankush Pandit: Successful Management of Allergy and WALRI with ODISTR*. Case Documentation. [ankush_case_odistr.pdf]  
+
+- Mukhopadhyay, R. (2025). *Signed Guardian Consent for ODISTR Case Publication*. [Consent.pdf]  
+
+- Mukhopadhyay, R. (2025). *ODISTR Documentary Video Demonstration*. [Google Drive Link]  
+
+**Additional Works**  
+- Mukhopadhyay, R. (2020). *Intranasal Steroid & Asthma*. Kindle Edition, Amazon. ASIN: B0874L1XHX  
+- Mukhopadhyay, R. (2020). *Sobon in the Veda*. Google Books / Sridoctor.com
 ---
 
 ## License
