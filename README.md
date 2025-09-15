@@ -24,6 +24,26 @@ Child Specialist | Founder, Sri Yoga Center Trust – Kunarpur
 - Guardian-informed consent & ethical documentation
 - Long-term clinical follow-up data
 
+
+# ODITSR – On-Demand INTRANASAL STEROID THERAPY of Rajatsubhra
+
+This repository contains clinical evidence and supporting documents for ODISTR, a novel therapeutic approach.
+
+---
+
+## 📂 Clinical Evidence Files
+
+- [On Demand Intranasal Steroid Therapy.pdf](odistr-clinical-evidence/On%20Demand%20Intranasal%20Steroid%20Therapy.pdf)  
+  *Primary article draft explaining the ODISTR innovation.*
+
+- [three_cases_odistr_merged.pdf](odistr-clinical-evidence/three_cases_odistr_merged%20(1).pdf)  
+  *Compilation of three documented ODISTR cases.*
+
+- [ankush_case_odistr.pdf](odistr-clinical-evidence/ankush_case_odistr.pdf)  
+  *Individual case report (Ankush Pandit).*
+
+- [Consent.pdf](odistr-clinical-evidence/Consent.pdf)  
+  *Signed patient/guardian consent form for publication and research sharing.*
 ---
 
 ## Documentation
