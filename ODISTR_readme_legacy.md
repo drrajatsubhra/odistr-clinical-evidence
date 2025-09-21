@@ -41,6 +41,15 @@ Pediatrician, Writer, Vedic Researcher
 📧 Email: [dr_rajatsubhra@sridoctor.com](mailto:dr_rajatsubhra@sridoctor.com)  
 🌐 Website: [https://sridoctor.com](https://sridoctor.com)  
 
+
+## 📌 Official Links & Resources  
+
+**Child Health Care Arambag (CHCA)** – *the Clinical Wing of* [**Sri Yoga Center Trust – Kunarpur (SYCT)**](https://www.wikidata.org/wiki/Q135898418)  
+
+- 🌐 **Website:** [CHCA – Official Page](https://www.sridoctor.com/child-health-care.php)  
+- 🏛 **Wikidata:** [Q135493189 – CHCA](https://www.wikidata.org/wiki/Q135493189)  
+- 📑 **Zenodo Archive:** [CHCA Research Outputs](https://zenodo.org/communities/chca)  
+- 🎥 **YouTube Channel:** [CHCA – Sridoctor Official](https://youtube.com/@sridoctor5525?si=R01iBu76ln-Xz5Wp)
 ---
 
 ## 📁 Contents of this Repository
